@@ -57,7 +57,7 @@ class Bicycle extends Vehicle implements Readable {
 
 void main() {
   // Create an instance of Car
-  final car = Car();
+  var car = Car();
 
   // Create an instance of Bicycle
   final bicycle = Bicycle();
