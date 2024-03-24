@@ -60,7 +60,7 @@ void main() {
   var car = Car();
 
   // Create an instance of Bicycle
-  final bicycle = Bicycle();
+  var bicycle = Bicycle();
 
   // Demonstrate method override
   car.makeSound();
